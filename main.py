@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 import json
 
-TOooKEN = 'yourbotto kenhere'
+TOKEN = 'yourbotto kenhere'
 WEBHOOK_URL = 'webhookhere'
 BLACK_CHANNEL_IDS = [1234567890123456789]
 
